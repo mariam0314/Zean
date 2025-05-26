@@ -1,12 +1,29 @@
-# React + Vite
+# 🏨 Zean Hotel Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Zean Hotel** is a modern, responsive hotel website designed to provide guests with an elegant online experience. It features easy navigation, beautiful layouts, and essential hotel information to help visitors explore rooms, services, and make reservations effortlessly.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Attractive homepage with hero banner and welcome message  
+- Rooms and suites overview with images and details  
+- Services and amenities section  
+- Online reservation/contact form  
+- Responsive design for desktop and mobile devices  
+- About Us and Contact pages  
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML5  
+- CSS3  
+- JavaScript  
+- Optional: Bootstrap or Tailwind CSS for styling  
+
+## 🎯 Purpose
+
+This project is ideal for hotel owners or businesses looking to build a professional website that highlights their hospitality services and improves customer engagement.
+
+---
+
+Feel free to customize the content or add screenshots, installation instructions, or a live demo link!
+
+
